@@ -1,7 +1,9 @@
 ## 🟢 **📌 Sobre mim**
 
 🟣 Sou Analista de Qualidade de Software (QA), com foco em automação de testes, testes de API e garantia da qualidade nas aplicações.
+
  Possuo experiência com testes unitários, testes de integração e validação de APIs REST, aplicando boas práticas de qualidade e prevenção de regressões.
+ 
  Iniciei minha trajetória como Desenvolvedor Backend Java, o que me proporciona uma visão técnica mais aprofundada para análise de cenários e construção de testes eficientes
 
 ✅ **Experiência Prática**
@@ -90,7 +92,7 @@ Cloud Computing e IA
 Minha base em desenvolvimento backend permite compreender regras de negócio, estruturar testes mais completos e antecipar falhas, contribuindo para a entrega de software com mais qualidade e confiabilidade.
 
 ---
+**Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.**
 
 ### 📫 **Contato**
 
-**Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.**
