@@ -4,7 +4,8 @@
 
  Possuo experiência com testes unitários, testes de integração e validação de APIs REST, aplicando boas práticas de qualidade e prevenção de regressões.
  
- Iniciei minha trajetória como Desenvolvedor Backend Java, o que me proporciona uma visão técnica mais aprofundada para análise de cenários e construção de testes eficientes
+ Iniciei minha trajetória como Desenvolvedor Backend Java, o que me proporciona uma visão técnica mais aprofundada para análise de cenários e construção de testes eficientes.
+
 
 ✅ **Experiência Prática**
 
