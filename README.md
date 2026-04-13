@@ -1,22 +1,47 @@
-## 🟢 **Roberto César Yanes**
+## 🟢 **📌 Sobre mim**
 
-🟣 **Sou um Analista de Testes de Software (QA), com foco em testes unitários, de integração e automação.**  **Iniciei minha jornada como Desenvolvedor Backend Java durante os primeiros bootcamps da Udemy e da Riachuelo em parceria com a DIO.** **Mas foi durante o curso de Java & QA do Bradesco que encontrei minha real direção como Amalista de Qualidade na área de tecnologia.**
-**Minha experiência prática em 1 ano de estudos inclui construção, validação e garantia de qualidade de APIs REST, criação de cenários de teste e automação aplicada, sempre com mentalidade analítica e atenção aos detalhes.**
+🟣 Sou Analista de Qualidade de Software (QA) com foco em automação de testes, testes de API e garantia da qualidade de aplicações.
+Possuo experiência com testes unitários, testes de integração e validação de APIs REST, aplicando boas práticas de qualidade e prevenção de regressões.
+Iniciei minha trajetória como Desenvolvedor Backend Java, o que me proporciona uma visão técnica mais aprofundada para análise de cenários e construção de testes eficientes
 
-**Minha formação prática inclui bootcamps de referência da DIO em parceria com Bradesco, Riacuelo, Acceture e Microsoft, onde desenvolvi e apliquei conhecimentos em:**
-- **Java e Spring Boot**
-- **Qualidade de Software (QA)**
-- **Testes unitários, de integração e automatizados**
-- **APIs REST e validação funcional**
-- **Fundamentos de Cloud Computing e IA, arquitetura moderna com foco corporativo com a Accenture e Amazon (AWS)**
-- **Cloud Native e IA com Microsoft Azure**
+✅ **Experiência Prática**
+
+Automação de testes com Cypress
+Testes unitários e de integração
+Validação de APIs REST
+Criação de cenários de teste
+Prevenção de regressões
 
 
-**Minha base em backend me permite compreender regras de negócio, estruturar testes mais completos e antecipar riscos com eficiência, garantindo confiabilidade e qualidade contínua ao longo do ciclo de desenvolvimento.**
+🚀 **Tecnologias e Ferramentas**
+
+Java
+Spring Boot
+JUnit
+Mockito
+Cypress
+Selenium
+Postman
+REST APIs
+Docker / Docker Compose
+AWS / Azure
 
 ---
 
-## **📚 Tecnologias que utilizo nos meus projetos (Bootcamps de referência)**
+## 🎓 **Minha Formação**
+
+**Bootcamps realizados pela DIO em parceria com:**
+ 
+ Riachuelo (Primeiros passos com Java)
+ Bradesco (Java & QA Developer)
+ Accenture (Desenvolvimento Java + Cloud)
+ Microsoft (Azure Cloud Native)
+
+**Com foco em:**
+
+Desenvolvimento Java
+Qualidade de Software
+Cloud Computing e IA
 
 <div align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
 
@@ -60,12 +85,12 @@
 
 ---
 
-## **🧭 Minha Jornada**
-**Decidi entrar na programação após um período de mudanças profundas na minha vida.**  
-**Estudar Java, Qualidade de Software e Cloud se tornou meu ponto de virada — disciplina, propósito e evolução constante.**  
-**Hoje sigo construindo uma carreira sólida em tecnologia, com foco em qualidade, aprendizado contínuo e impacto real**.
+## ✅ **Diferencial**
+
+Minha base em desenvolvimento backend permite compreender regras de negócio, estruturar testes mais completos e antecipar falhas, contribuindo para a entrega de software com mais qualidade e confiabilidade.
 
 ---
 
-### **Obrigado por visitar meu perfil.** 😉👍🏻  
-### **Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.** 🚀
+### 📫 **Contato**
+
+**Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.**
