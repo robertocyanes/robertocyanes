@@ -19,7 +19,7 @@ Prevenção de regressões.
 
 🚀 **Tecnologias e Ferramentas**
 
-Java,
+Java
 Spring Boot,
 JUnit, 
 Mockito,
@@ -38,14 +38,15 @@ AWS / Azure.
  
  Riachuelo (Primeiros passos com Java),
  Bradesco (Java & QA Developer),
- Accenture (Desenvolvimento Java + Cloud),
- Microsoft (Azure Cloud Native),
+ Accenture (Desenvolvimento Java + Cloud Computing + IA),
+ Microsoft (Azure Cloud Native).
+
 
 **Com foco em:**
 
-Desenvolvimento Java
-Qualidade de Software
-Cloud Computing e IA
+Desenvolvimento Java, 
+Qualidade de Software, 
+Cloud Computing e IA.
 
 <div align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
 
