@@ -1,4 +1,4 @@
-## **📌 Sobre mim **
+## 📌 **Sobre mim **
 
 🟣 Sou Analista de Qualidade de Software (QA), com foco em automação de testes, testes de API e garantia da qualidade nas aplicações.
 
