@@ -95,7 +95,7 @@ Cloud Computing e IA.
 Minha base em desenvolvimento backend permite compreender regras de negócio, estruturar testes mais completos e antecipar falhas, contribuindo para a entrega de software com mais qualidade e confiabilidade.
 
 ---
-**Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.**
+**Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução**.🚀
 
 
 
