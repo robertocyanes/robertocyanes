@@ -1,4 +1,4 @@
-## 🟢 **📌 Sobre mim**
+## **📌 Sobre mim **
 
 🟣 Sou Analista de Qualidade de Software (QA), com foco em automação de testes, testes de API e garantia da qualidade nas aplicações.
 
@@ -15,7 +15,7 @@ Validação de APIs REST
 Criação de cenários de teste
 Prevenção de regressões
 
----
+
 
 🚀 **Tecnologias e Ferramentas**
 
@@ -96,5 +96,5 @@ Minha base em desenvolvimento backend permite compreender regras de negócio, es
 ---
 **Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.**
 
-### 📫 **Contato**
+
 
