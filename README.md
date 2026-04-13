@@ -19,7 +19,7 @@ Prevenção de regressões.
 
 🚀 **Tecnologias e Ferramentas**
 
-Java
+Java, 
 Spring Boot,
 JUnit, 
 Mockito,
