@@ -9,26 +9,26 @@
 
 ✅ **Experiência Prática**
 
-Automação de testes com Cypress
-Testes unitários e de integração
-Validação de APIs REST
-Criação de cenários de teste
-Prevenção de regressões
+Automação de testes com Cypress,
+Testes unitários e de integração,
+Validação de APIs REST,
+Criação de cenários de teste,
+Prevenção de regressões.
 
 
 
 🚀 **Tecnologias e Ferramentas**
 
-Java
-Spring Boot
-JUnit
-Mockito
-Cypress
-Selenium
-Postman
-REST APIs
-Docker / Docker Compose
-AWS / Azure
+Java,
+Spring Boot,
+JUnit, 
+Mockito,
+Cypress,
+Selenium,
+Postman,
+REST APIs,
+Docker / Docker Compose,
+AWS / Azure.
 
 ---
 
@@ -36,10 +36,10 @@ AWS / Azure
 
 **Bootcamps realizados pela DIO em parceria com:**
  
- Riachuelo (Primeiros passos com Java)
- Bradesco (Java & QA Developer)
- Accenture (Desenvolvimento Java + Cloud)
- Microsoft (Azure Cloud Native)
+ Riachuelo (Primeiros passos com Java),
+ Bradesco (Java & QA Developer),
+ Accenture (Desenvolvimento Java + Cloud),
+ Microsoft (Azure Cloud Native),
 
 **Com foco em:**
 
