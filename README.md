@@ -1,6 +1,6 @@
 ## 📌 **Sobre mim**
 
-🟣 Sou Analista de Qualidade de Software (QA), com foco em automação de testes, testes de API e garantia da qualidade nas aplicações.
+ 🟣 Sou Analista de Qualidade de Software (QA), com foco em automação de testes, testes de API e garantia da qualidade nas aplicações.
 
  Possuo experiência de 1 ano com testes unitários, testes de integração e validação de APIs REST, aplicando boas práticas de qualidade e prevenção de regressões.
  
@@ -32,7 +32,7 @@ AWS / Azure.
 
 ---
 
-## 🎓 **Minha Formação**
+## 🟣 **Minha Formação**
 
 **Bootcamps realizados pela DIO em parceria com:**
  
