@@ -1,7 +1,7 @@
 🟣 Sou Analista de Qualidade de Software (QA), com foco em automação de testes, testes de API e garantia da qualidade nas aplicações.
 
 Possuo experiência de 1 ano com testes unitários, testes de integração e validação de APIs REST, aplicando boas práticas de qualidade e prevenção de regressões.
- 
+
 Iniciei minha trajetória como Desenvolvedor Backend Java, o que me proporciona uma visão técnica mais aprofundada para análise de cenários e construção de testes eficientes.
 
 ---
@@ -52,98 +52,42 @@ Iniciei minha trajetória como Desenvolvedor Backend Java, o que me proporciona 
 
 ---
 
-<div align="left" style="display:flex; gap:12px; flex-wrap:wrap;">
+<div align="left">
 
-  <!-- Udemy -->
-  <a href="https://www.udemy.com/course/fundamentos-de-programacao-com-java/?couponCode=CP251120G2"
-     style="
-       background:white;
-       padding:4px;
-       border-radius:16px;
-       box-shadow:0 0 14px rgba(255,255,255,0.95);
-       display:inline-block;
-     ">
-    <img src="https://img.shields.io/badge/Udemy-pink?style=for-the-badge&labelColor=pink&color=pink"
-         style="border-radius:12px;">
-  </a>
+<a href="https://www.udemy.com/course/fundamentos-de-programacao-com-java/?couponCode=CP251120G2">
+  <img src="https://img.shields.io/badge/Udemy-pink?style=for-the-badge&labelColor=pink&color=pink"
+       style="border-radius:18px; padding:4px; background:white; box-shadow:0 0 15px rgba(255,255,255,0.95); margin:4px;">
+</a>
 
-  <!-- DIO -->
-  <a href="https://web.dio.me/play"
-     style="
-       background:white;
-       padding:4px;
-       border-radius:16px;
-       box-shadow:0 0 14px rgba(255,255,255,0.95);
-       display:inline-block;
-     ">
-    <img src="https://img.shields.io/badge/DIO-black?style=for-the-badge&labelColor=black&color=black"
-         style="border-radius:12px;">
-  </a>
+<a href="https://web.dio.me/play">
+  <img src="https://img.shields.io/badge/DIO-black?style=for-the-badge&labelColor=black&color=black"
+       style="border-radius:18px; padding:4px; background:white; box-shadow:0 0 15px rgba(255,255,255,0.95); margin:4px;">
+</a>
 
-  <!-- Riachuelo -->
-  <a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java"
-     style="
-       background:white;
-       padding:4px;
-       border-radius:16px;
-       box-shadow:0 0 14px rgba(255,255,255,0.95);
-       display:inline-block;
-     ">
-    <img src="https://img.shields.io/badge/Riachuelo%20Java-white?style=for-the-badge&labelColor=white&color=white"
-         style="border-radius:12px;">
-  </a>
+<a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java">
+  <img src="https://img.shields.io/badge/Riachuelo%20Java-white?style=for-the-badge&labelColor=white&color=white"
+       style="border-radius:18px; padding:4px; background:white; box-shadow:0 0 15px rgba(255,255,255,0.95); margin:4px;">
+</a>
 
-  <!-- Bradesco -->
-  <a href="https://web.dio.me/track/bradesco-java-qa-developer"
-     style="
-       background:white;
-       padding:4px;
-       border-radius:16px;
-       box-shadow:0 0 14px rgba(255,255,255,0.95);
-       display:inline-block;
-     ">
-    <img src="https://img.shields.io/badge/Bradesco%20Java%20%26%20QA-red?style=for-the-badge&labelColor=red&color=red"
-         style="border-radius:12px;">
-  </a>
+<a href="https://web.dio.me/track/bradesco-java-qa-developer">
+  <img src="https://img.shields.io/badge/Bradesco%20Java%20%26%20QA-red?style=for-the-badge&labelColor=red&color=red"
+       style="border-radius:18px; padding:4px; background:white; box-shadow:0 0 15px rgba(255,255,255,0.95); margin:4px;">
+</a>
 
-  <!-- Accenture -->
-  <a href="https://web.dio.me/track/accenture-desenvolvimento-java-cloud"
-     style="
-       background:white;
-       padding:4px;
-       border-radius:16px;
-       box-shadow:0 0 14px rgba(255,255,255,0.95);
-       display:inline-block;
-     ">
-    <img src="https://img.shields.io/badge/Accenture%20Cloud%20IA-%235A2D82?style=for-the-badge&labelColor=%235A2D82&color=%235A2D82"
-         style="border-radius:12px;">
-  </a>
+<a href="https://web.dio.me/track/accenture-desenvolvimento-java-cloud">
+  <img src="https://img.shields.io/badge/Accenture%20Cloud%20IA-%235A2D82?style=for-the-badge&labelColor=%235A2D82&color=%235A2D82"
+       style="border-radius:18px; padding:4px; background:white; box-shadow:0 0 15px rgba(255,255,255,0.95); margin:4px;">
+</a>
 
-  <!-- Microsoft Azure -->
-  <a href="https://web.dio.me/track/microsoft-azure-cloud-native-2026?tab=certificate"
-     style="
-       background:white;
-       padding:4px;
-       border-radius:16px;
-       box-shadow:0 0 14px rgba(255,255,255,0.95);
-       display:inline-block;
-     ">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6?style=for-the-badge&labelColor=%230072C6&color=%230072C6"
-         style="border-radius:12px;">
-  </a>
+<a href="https://web.dio.me/track/microsoft-azure-cloud-native-2026?tab=certificate">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6?style=for-the-badge&labelColor=%230072C6&color=%230072C6"
+       style="border-radius:18px; padding:4px; background:white; box-shadow:0 0 15px rgba(255,255,255,0.95); margin:4px;">
+</a>
 
-  <!-- Almaviva -->
-  <a href="https://web.dio.me/track/almaviva-back-end-com-java-qa"
-     style="
-       background:white;
-       padding:4px;
-       border-radius:16px;
-       box-shadow:0 0 14px rgba(255,255,255,0.95);
-       display:inline-block;
-     ">
-    <img src="https://img.shields.io/badge/Java%20%26%20QA-%230B1F3A?style=for-the-badge&labelColor=%230B1F3A&color=%230B1F3A"
-         style="border-radius:12px;">
-  </a>
+<a href="https://web.dio.me/track/almaviva-back-end-com-java-qa">
+  <img src="https://img.shields.io/badge/Java%20%26%20QA-%230B1F3A?style=for-the-badge&labelColor=%230B1F3A&color=%230B1F3A"
+       style="border-radius:18px; padding:4px; background:white; box-shadow:0 0 15px rgba(255,255,255,0.95); margin:4px;">
+</a>
 
 </div>
 
