@@ -8,7 +8,7 @@ Iniciei minha trajetória como Desenvolvedor Backend Java, o que me proporciona 
 
 ## ✅ Experiência Prática
 
-- Automação de testes com Cypress
+- Automação de testes
 - Testes unitários e de integração
 - Validação de APIs REST
 - Criação de cenários de teste
