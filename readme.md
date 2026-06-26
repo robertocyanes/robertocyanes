@@ -97,7 +97,7 @@ Iniciei minha trajetória como Desenvolvedor Backend Java, o que me proporciona 
          style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,8);" />
   </a>
 
-  <!-- Santander 2026 - AI Java -->
+  <!-- Santander 2026 - AI Java (AO LADO DO ALMAVIVA) -->
   <a href="https://web.dio.me/track/santander-2026-java-backend">
     <img src="https://img.shields.io/badge/Santander%202026%20AI%20Java-%238B0000?style=for-the-badge&labelColor=%238B0000&color=%238B0000"
          style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
@@ -106,7 +106,6 @@ Iniciei minha trajetória como Desenvolvedor Backend Java, o que me proporciona 
 </div>
 
 ---
-
 
 ## ✅ Diferencial
 
