@@ -58,49 +58,49 @@ Iniciei minha trajetória como Desenvolvedor Backend Java, o que me proporciona 
   <!-- Udemy -->
   <a href="https://www.udemy.com/course/fundamentos-de-programacao-com-java/?couponCode=CP251120G2">
     <img src="https://img.shields.io/badge/Udemy-pink?style=for-the-badge&labelColor=pink&color=pink"
-         style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
+         style="border-radius:999px; height:28px; box-shadow: 0 0 10px rgba(255,255,255,0.25);" />
   </a>
 
   <!-- DIO -->
   <a href="https://web.dio.me/play">
     <img src="https://img.shields.io/badge/DIO-black?style=for-the-badge&labelColor=black&color=black"
-         style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
+         style="border-radius:999px; height:28px; box-shadow: 0 0 10px rgba(255,255,255,0.25);" />
   </a>
 
   <!-- Riachuelo -->
   <a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java">
     <img src="https://img.shields.io/badge/Riachuelo%20Java-white?style=for-the-badge&labelColor=white&color=white"
-         style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
+         style="border-radius:999px; height:28px; box-shadow: 0 0 10px rgba(255,255,255,0.25);" />
   </a>
 
   <!-- Bradesco -->
   <a href="https://web.dio.me/track/bradesco-java-qa-developer">
     <img src="https://img.shields.io/badge/Bradesco%20Java%20%26%20QA-red?style=for-the-badge&labelColor=red&color=red"
-         style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
+         style="border-radius:999px; height:28px; box-shadow: 0 0 10px rgba(255,255,255,0.25);" />
   </a>
 
   <!-- Accenture -->
   <a href="https://web.dio.me/track/accenture-desenvolvimento-java-cloud">
     <img src="https://img.shields.io/badge/Accenture%20Cloud%20IA-%235A2D82?style=for-the-badge&labelColor=%235A2D82&color=%235A2D82"
-         style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
+         style="border-radius:999px; height:28px; box-shadow: 0 0 10px rgba(255,255,255,0.25);" />
   </a>
 
   <!-- Microsoft Azure -->
   <a href="https://web.dio.me/track/microsoft-azure-cloud-native-2026?tab=certificate">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6?style=for-the-badge&labelColor=%230072C6&color=%230072C6"
-         style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
+         style="border-radius:999px; height:28px; box-shadow: 0 0 10px rgba(255,255,255,0.25);" />
   </a>
 
   <!-- Almaviva -->
   <a href="https://web.dio.me/track/almaviva-back-end-com-java-qa">
     <img src="https://img.shields.io/badge/Almaviva%20Java%20%26%20QA-%230B1F3A?style=for-the-badge&labelColor=%230B1F3A&color=%230B1F3A"
-         style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,8);" />
+         style="border-radius:999px; height:28px; box-shadow: 0 0 10px rgba(255,255,255,0.25);" />
   </a>
 
   <!-- Santander 2026 - AI Java (AO LADO DO ALMAVIVA) -->
   <a href="https://web.dio.me/track/santander-2026-java-backend">
-    <img src="https://img.shields.io/badge/Santander%202026%20AI%20Java-%238B0000?style=for-the-badge&labelColor=%238B0000&color=%238B0000"
-         style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
+    <img src="https://img.shields.io/badge/Santander%202026%20AI%20Java-%238B0000?style=for-the-badge; labelColor=%238B0000; color=%238B0000"
+         style="border-radius:999px; height:28px; box-shadow: 0 0 10px rgba(255,255,255,0.25);" />
   </a>
 
 </div>
