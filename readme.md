@@ -85,25 +85,28 @@ Iniciei minha trajetória como Desenvolvedor Backend Java, o que me proporciona 
          style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
   </a>
 
-  <!-- Microsoft Azure + Almaviva lado a lado -->
+  <!-- Microsoft Azure -->
   <a href="https://web.dio.me/track/microsoft-azure-cloud-native-2026?tab=certificate">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6?style=for-the-badge&labelColor=%230072C6&color=%230072C6"
          style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
   </a>
 
+  <!-- Almaviva -->
   <a href="https://web.dio.me/track/almaviva-back-end-com-java-qa">
     <img src="https://img.shields.io/badge/Almaviva%20Java%20%26%20QA-%230B1F3A?style=for-the-badge&labelColor=%230B1F3A&color=%230B1F3A"
-         style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
+         style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,8);" />
   </a>
-
-</div>
 
   <!-- Santander 2026 - AI Java -->
   <a href="https://web.dio.me/track/santander-2026-java-backend">
     <img src="https://img.shields.io/badge/Santander%202026%20AI%20Java-%238B0000?style=for-the-badge&labelColor=%238B0000&color=%238B0000"
          style="border-radius:14px; height:28px; box-shadow: 0 0 8px rgba(255,255,255,0.8);" />
   </a>
+
+</div>
+
 ---
+
 
 ## ✅ Diferencial
 
