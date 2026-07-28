@@ -67,7 +67,7 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 * Automação de Processos com n8n
 
 ---
-## Certificações:
+## Certificações
 
 <div align="left">
 
