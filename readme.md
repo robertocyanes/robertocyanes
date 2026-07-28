@@ -70,9 +70,6 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 
 <div align="left">
 
-<a href="https://web.dio.me/play" target="_blank">
-    <img src="https://img.shields.io/badge/DIO-black?style=for-the-badge" alt="DIO"/>
-</a>
 
 <a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java" target="_blank">
     <img src="https://img.shields.io/badge/Riachuelo%20Java-white?style=for-the-badge&logoColor=black" alt="Riachuelo Java"/>
