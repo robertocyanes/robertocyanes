@@ -111,7 +111,7 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 
 ---
 
-## ✅ Diferencial
+##  Diferencial
 
 Minha experiência em desenvolvimento backend, aliada à atuação em Qualidade de Software, permite compreender profundamente as regras de negócio, estruturar testes automatizados mais completos e antecipar falhas durante o ciclo de desenvolvimento.
 
