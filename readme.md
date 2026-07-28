@@ -71,37 +71,42 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 
 <div align="left">
 
+  <!-- Riachuelo Java -->
+  <a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java" target="_blank">
+    <img src="https://img.shields.io/badge/Riachuelo-Java_Bootcamp-39FF14?style=flat&logo=openjdk&logoColor=black&labelColor=111111" alt="Riachuelo Java"/>
+  </a>
 
-<a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java" target="_blank">
-    <img src="https://img.shields.io/badge/Riachuelo%20Java-white?style=for-the-badge&logoColor=black" alt="Riachuelo Java"/>
-</a>
+  <!-- Bradesco Java & QA -->
+  <a href="https://assets.dio.me/mF6e2Deuwj5UvDCduLjoMPmPvKoIExNGqAIQ68phZSs/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci81TkFDRlBKUi5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Bradesco-Java_%26_QA-FF0055?style=flat&logo=eclipseide&logoColor=white&labelColor=111111" alt="Bradesco Java QA"/>
+  </a>
 
-<a href="https://assets.dio.me/mF6e2Deuwj5UvDCduLjoMPmPvKoIExNGqAIQ68phZSs/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci81TkFDRlBKUi5qcGc" target="_blank">
-    <img src="https://img.shields.io/badge/Bradesco%20Java%20%26%20QA-red?style=for-the-badge" alt="Bradesco Java QA"/>
-</a>
+  <!-- Accenture Cloud & IA -->
+  <a href="https://assets.dio.me/Rl8DUPQXFkCIPaZjZew6mXEopjkY81Wx_XX60F3jP7k/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RUVVSUzNaUC5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Accenture-Cloud_%26_IA-BF00FF?style=flat&logo=accenture&logoColor=white&labelColor=111111" alt="Accenture"/>
+  </a>
 
-<a href="https://assets.dio.me/Rl8DUPQXFkCIPaZjZew6mXEopjkY81Wx_XX60F3jP7k/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RUVVSUzNaUC5qcGc" target="_blank">
-    <img src="https://img.shields.io/badge/Accenture%20Cloud%20&%20IA-purple?style=for-the-badge" alt="Accenture"/>
-</a>
+  <!-- Microsoft Azure -->
+  <a href="https://assets.dio.me/hSLEiS1meXaTqdIZ6SncJlJYuhmA2bzgmrLYpP9Xqv4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9MMkRCSFI4TS5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-Azure_Cloud-00F3FF?style=flat&logo=microsoftazure&logoColor=black&labelColor=111111" alt="Microsoft Azure"/>
+  </a>
 
-<a href="https://assets.dio.me/hSLEiS1meXaTqdIZ6SncJlJYuhmA2bzgmrLYpP9Xqv4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9MMkRCSFI4TS5qcGc" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge" alt="Microsoft Azure"/>
-</a>
+  <!-- Almaviva Java & QA -->
+  <a href="https://assets.dio.me/acXK01AaDfxwCez2KocseWNsfrQLZXoyxxkR-qwmKuU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9QV0FUTktDRy5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Almaviva-Java_%26_QA-00FF66?style=flat&logo=java&logoColor=black&labelColor=111111" alt="Almaviva"/>
+  </a>
 
-<a href="https://assets.dio.me/acXK01AaDfxwCez2KocseWNsfrQLZXoyxxkR-qwmKuU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9QV0FUTktDRy5qcGc" target="_blank">
-    <img src="https://img.shields.io/badge/Almaviva%20Java%20%26%20QA-darkblue?style=for-the-badge" alt="Almaviva"/>
-</a>
+  <!-- Santander 2026 AI Java -->
+  <a href="https://assets.dio.me/InSFt9h43D2oWHn38NKrJiCf5NVl_zcaLzCd6NL6-Hg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9BWklSSktVSi5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Santander_2026-AI_Java_Dev-FF2A8D?style=flat&logo=openai&logoColor=white&labelColor=111111" alt="Santander"/>
+  </a>
 
-<a href="https://assets.dio.me/InSFt9h43D2oWHn38NKrJiCf5NVl_zcaLzCd6NL6-Hg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9BWklSSktVSi5qcGc" target="_blank">
-    <img src="https://img.shields.io/badge/Santander%202026%20AI%20Java-darkred?style=for-the-badge" alt="Santander"/>
-</a>
-
-<a href="https://assets.dio.me/Yqrpd5fwwon9TjDUTGHlCcQzUVHGpzt-XN76LG18-fU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9JVDU3M0JQRy5qcGc" target="_blank">
-    <img src="https://img.shields.io/badge/Riachuelo%20Criando%20Produtos%20com%20IA-darkgreen?style=for-the-badge" alt="Riachuelo IA"/>
-</a>
+  <!-- Riachuelo Criando Produtos com IA -->
+  <a href="https://assets.dio.me/Yqrpd5fwwon9TjDUTGHlCcQzUVHGpzt-XN76LG18-fU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9JVDU3M0JQRy5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Riachuelo-Produtos_com_IA-FFE600?style=flat&logo=robotframework&logoColor=black&labelColor=111111" alt="Riachuelo IA"/>
+  </a>
 
 </div>
-
 
 ##  Diferencial
 
