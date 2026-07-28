@@ -70,40 +70,39 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 
 <div align="left">
 
-  <a href="https://web.dio.me/play">
-    <img src="https://img.shields.io/badge/DIO-black?style=for-the-badge" />
-  </a>
+<a href="https://web.dio.me/play" target="_blank">
+    <img src="https://img.shields.io/badge/DIO-black?style=for-the-badge" alt="DIO"/>
+</a>
 
-  <a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java">
-    <img src="https://img.shields.io/badge/Riachuelo%20Java-white?style=for-the-badge" />
-  </a>
+<a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java" target="_blank">
+    <img src="https://img.shields.io/badge/Riachuelo%20Java-white?style=for-the-badge&logoColor=black" alt="Riachuelo Java"/>
+</a>
 
-  <a href="https://assets.dio.me/mF6e2Deuwj5UvDCduLjoMPmPvKoIExNGqAIQ68phZSs/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci81TkFDRlBKUi5qcGc">
-    <img src="https://img.shields.io/badge/Bradesco%20Java%20%26%20QA-red?style=for-the-badge" />
-  </a>
+<a href="https://assets.dio.me/mF6e2Deuwj5UvDCduLjoMPmPvKoIExNGqAIQ68phZSs/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci81TkFDRlBKUi5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Bradesco%20Java%20%26%20QA-red?style=for-the-badge" alt="Bradesco Java QA"/>
+</a>
 
-  <a href="https://assets.dio.me/Rl8DUPQXFkCIPaZjZew6mXEopjkY81Wx_XX60F3jP7k/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RUVVSUzNaUC5qcGc">
-    <img src="https://img.shields.io/badge/Accenture%20Cloud%20IA-purple?style=for-the-badge" />
-  </a>
+<a href="https://assets.dio.me/Rl8DUPQXFkCIPaZjZew6mXEopjkY81Wx_XX60F3jP7k/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RUVVSUzNaUC5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Accenture%20Cloud%20IA-purple?style=for-the-badge" alt="Accenture"/>
+</a>
 
-  <a href="https://assets.dio.me/hSLEiS1meXaTqdIZ6SncJlJYuhmA2bzgmrLYpP9Xqv4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9MMkRCSFI4TS5qcGc">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge" />
-  </a>
+<a href="https://assets.dio.me/hSLEiS1meXaTqdIZ6SncJlJYuhmA2bzgmrLYpP9Xqv4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9MMkRCSFI4TS5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge" alt="Microsoft Azure"/>
+</a>
 
-  <a href="https://assets.dio.me/acXK01AaDfxwCez2KocseWNsfrQLZXoyxxkR-qwmKuU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9QV0FUTktDRy5qcGc">
-    <img src="https://img.shields.io/badge/Almaviva%20Java%20%26%20QA-darkblue?style=for-the-badge" />
-  </a>
+<a href="https://assets.dio.me/acXK01AaDfxwCez2KocseWNsfrQLZXoyxxkR-qwmKuU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9QV0FUTktDRy5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Almaviva%20Java%20%26%20QA-darkblue?style=for-the-badge" alt="Almaviva"/>
+</a>
 
-  <a href="https://assets.dio.me/InSFt9h43D2oWHn38NKrJiCf5NVl_zcaLzCd6NL6-Hg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9BWklSSktVSi5qcGc">
-    <img src="https://img.shields.io/badge/Santander%202026%20AI%20Java-darkred?style=for-the-badge" />
-  </a>
+<a href="https://assets.dio.me/InSFt9h43D2oWHn38NKrJiCf5NVl_zcaLzCd6NL6-Hg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9BWklSSktVSi5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Santander%202026%20AI%20Java-darkred?style=for-the-badge" alt="Santander"/>
+</a>
 
-  <a href="https://assets.dio.me/Yqrpd5fwwon9TjDUTGHlCcQzUVHGpzt-XN76LG18-fU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9JVDU3M0JQRy5qcGc">
-    <img src="https://img.shields.io/badge/Riachuelo%20-%20Criando%20Produtos%20com%20IA-darkgreen?style=for-the-badge" />
-  </a>
+<a href="https://assets.dio.me/Yqrpd5fwwon9TjDUTGHlCcQzUVHGpzt-XN76LG18-fU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9JVDU3M0JQRy5qcGc" target="_blank">
+    <img src="https://img.shields.io/badge/Riachuelo%20Criando%20Produtos%20com%20IA-darkgreen?style=for-the-badge" alt="Riachuelo IA"/>
+</a>
 
 </div>
-```
 
 
 ##  Diferencial
