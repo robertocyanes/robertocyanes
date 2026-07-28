@@ -68,44 +68,46 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 
 ---
 ## Certificações
+
 <div align="left">
 
-  <!-- Riachuelo Java (Branco Neon) -->
+  <!-- Riachuelo Java (white) -->
   <a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java" target="_blank">
-    <img src="https://img.shields.io/badge/Riachuelo%20Java-white?style=flat&labelColor=ffffff&color=ffffff" alt="Riachuelo Java"/>
+    <img src="https://img.shields.io/badge/Riachuelo%20Java-white?style=flat&logoColor=black&labelColor=ffffff" alt="Riachuelo Java"/>
   </a>
 
-  <!-- Bradesco Java & QA (Vermelho Original / Fundo Claro Aceso) -->
+  <!-- Bradesco Java & QA (red) -->
   <a href="https://assets.dio.me/mF6e2Deuwj5UvDCduLjoMPmPvKoIExNGqAIQ68phZSs/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci81TkFDRlBKUi5qcGc" target="_blank">
     <img src="https://img.shields.io/badge/Bradesco%20Java%20%26%20QA-red?style=flat&labelColor=ffffff" alt="Bradesco Java QA"/>
   </a>
 
-  <!-- Accenture Cloud & IA (Roxo Original / Fundo Claro Aceso) -->
+  <!-- Accenture Cloud & IA (purple) -->
   <a href="https://assets.dio.me/Rl8DUPQXFkCIPaZjZew6mXEopjkY81Wx_XX60F3jP7k/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RUVVSUzNaUC5qcGc" target="_blank">
     <img src="https://img.shields.io/badge/Accenture%20Cloud%20&%20IA-purple?style=flat&labelColor=ffffff" alt="Accenture"/>
   </a>
 
-  <!-- Microsoft Azure (Azul Original / Fundo Claro Aceso) -->
+  <!-- Microsoft Azure (blue) -->
   <a href="https://assets.dio.me/hSLEiS1meXaTqdIZ6SncJlJYuhmA2bzgmrLYpP9Xqv4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9MMkRCSFI4TS5qcGc" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-blue?style=flat&labelColor=ffffff" alt="Microsoft Azure"/>
   </a>
 
-  <!-- Almaviva Java & QA (Azul Escuro Original / Fundo Claro Aceso) -->
+  <!-- Almaviva Java & QA (darkblue) -->
   <a href="https://assets.dio.me/acXK01AaDfxwCez2KocseWNsfrQLZXoyxxkR-qwmKuU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9QV0FUTktDRy5qcGc" target="_blank">
     <img src="https://img.shields.io/badge/Almaviva%20Java%20%26%20QA-darkblue?style=flat&labelColor=ffffff" alt="Almaviva"/>
   </a>
 
-  <!-- Santander 2026 AI Java (Vermelho Escuro Original / Fundo Claro Aceso) -->
+  <!-- Santander 2026 AI Java (darkred) -->
   <a href="https://assets.dio.me/InSFt9h43D2oWHn38NKrJiCf5NVl_zcaLzCd6NL6-Hg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9BWklSSktVSi5qcGc" target="_blank">
     <img src="https://img.shields.io/badge/Santander%202026%20AI%20Java-darkred?style=flat&labelColor=ffffff" alt="Santander"/>
   </a>
 
-  <!-- Riachuelo Criando Produtos com IA (Verde Escuro Original / Fundo Claro Aceso) -->
+  <!-- Riachuelo Criando Produtos com IA (darkgreen) -->
   <a href="https://assets.dio.me/Yqrpd5fwwon9TjDUTGHlCcQzUVHGpzt-XN76LG18-fU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9JVDU3M0JQRy5qcGc" target="_blank">
     <img src="https://img.shields.io/badge/Riachuelo%20Criando%20Produtos%20com%20IA-darkgreen?style=flat&labelColor=ffffff" alt="Riachuelo IA"/>
   </a>
 
 </div>
+
 ##  Diferencial
 
 Minha experiência em desenvolvimento backend, aliada à atuação em Qualidade de Software, permite compreender profundamente as regras de negócio, estruturar testes automatizados mais completos e antecipar falhas durante o ciclo de desenvolvimento.
