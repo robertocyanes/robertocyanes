@@ -67,8 +67,6 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 * Automação de Processos com n8n
 
 ---
-```markdown
-## Bootcamps realizados com certificações:
 
 <div align="left">
 
