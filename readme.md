@@ -67,13 +67,10 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 * Automação de Processos com n8n
 
 ---
+```markdown
 ## Bootcamps realizados com certificações:
 
 <div align="left">
-
-  <a href="https://www.udemy.com/course/fundamentos-de-programacao-com-java/?couponCode=CP251120G2">
-    <img src="https://img.shields.io/badge/Udemy-pink?style=for-the-badge&logo=udemy&logoColor=white" />
-  </a>
 
   <a href="https://web.dio.me/play">
     <img src="https://img.shields.io/badge/DIO-black?style=for-the-badge" />
@@ -83,33 +80,33 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
     <img src="https://img.shields.io/badge/Riachuelo%20Java-white?style=for-the-badge" />
   </a>
 
-  <a href="[https://web.dio.me/track/bradesco-java-qa-developer](https://assets.dio.me/mF6e2Deuwj5UvDCduLjoMPmPvKoIExNGqAIQ68phZSs/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci81TkFDRlBKUi5qcGc)">
+  <a href="https://assets.dio.me/mF6e2Deuwj5UvDCduLjoMPmPvKoIExNGqAIQ68phZSs/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci81TkFDRlBKUi5qcGc">
     <img src="https://img.shields.io/badge/Bradesco%20Java%20%26%20QA-red?style=for-the-badge" />
   </a>
 
-  <a href="[https://web.dio.me/track/accenture-desenvolvimento-java-cloud](https://assets.dio.me/Rl8DUPQXFkCIPaZjZew6mXEopjkY81Wx_XX60F3jP7k/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RUVVSUzNaUC5qcGc)">
+  <a href="https://assets.dio.me/Rl8DUPQXFkCIPaZjZew6mXEopjkY81Wx_XX60F3jP7k/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RUVVSUzNaUC5qcGc">
     <img src="https://img.shields.io/badge/Accenture%20Cloud%20IA-purple?style=for-the-badge" />
   </a>
 
-  <a href="[https://web.dio.me/track/microsoft-azure-cloud-native-2026?tab=certificate](https://assets.dio.me/hSLEiS1meXaTqdIZ6SncJlJYuhmA2bzgmrLYpP9Xqv4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9MMkRCSFI4TS5qcGc)">
+  <a href="https://assets.dio.me/hSLEiS1meXaTqdIZ6SncJlJYuhmA2bzgmrLYpP9Xqv4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9MMkRCSFI4TS5qcGc">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge" />
   </a>
 
-  <a href="[https://web.dio.me/track/almaviva-back-end-com-java-qa](https://assets.dio.me/acXK01AaDfxwCez2KocseWNsfrQLZXoyxxkR-qwmKuU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9QV0FUTktDRy5qcGc)">
+  <a href="https://assets.dio.me/acXK01AaDfxwCez2KocseWNsfrQLZXoyxxkR-qwmKuU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9QV0FUTktDRy5qcGc">
     <img src="https://img.shields.io/badge/Almaviva%20Java%20%26%20QA-darkblue?style=for-the-badge" />
   </a>
 
-  <a href="https://web.dio.me/track/santander-2026-java-backend">
-    <img src="[https://img.shields.io/badge/Santander%202026%20AI%20Java-darkred?style=for-the-badge](https://assets.dio.me/InSFt9h43D2oWHn38NKrJiCf5NVl_zcaLzCd6NL6-Hg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9BWklSSktVSi5qcGc)" />
+  <a href="https://assets.dio.me/InSFt9h43D2oWHn38NKrJiCf5NVl_zcaLzCd6NL6-Hg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9BWklSSktVSi5qcGc">
+    <img src="https://img.shields.io/badge/Santander%202026%20AI%20Java-darkred?style=for-the-badge" />
   </a>
 
-  <a href="[https://web.dio.me/track/riachuelo-criando-produtos-com-ia](https://assets.dio.me/Yqrpd5fwwon9TjDUTGHlCcQzUVHGpzt-XN76LG18-fU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9JVDU3M0JQRy5qcGc)">
+  <a href="https://assets.dio.me/Yqrpd5fwwon9TjDUTGHlCcQzUVHGpzt-XN76LG18-fU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9JVDU3M0JQRy5qcGc">
     <img src="https://img.shields.io/badge/Riachuelo%20-%20Criando%20Produtos%20com%20IA-darkgreen?style=for-the-badge" />
   </a>
 
 </div>
+```
 
----
 
 ##  Diferencial
 
