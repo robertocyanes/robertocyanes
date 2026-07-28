@@ -49,8 +49,11 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 * Riachuelo (Primeiros passos com Java)
 * Bradesco (Java & QA Developer)
 * Accenture (Desenvolvimento Java + Cloud Computing + IA)
+* Microsoft (Certification Challenge AZ 204)
 * Microsoft (Azure Cloud Native)
 * Almaviva (Back-end com Java & QA)
+* Santander (AI Java Back-end)
+* Riachuelo (Criando Produtos com IA)
 
 ---
 
