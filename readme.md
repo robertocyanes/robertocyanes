@@ -10,7 +10,7 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 
 ---
 
-## ✅ Experiência Prática
+##  Experiência Prática
 
 * Automação de testes
 * Testes unitários e de integração
@@ -42,7 +42,7 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 
 ---
 
-## 🟣 Minha Formação
+##  Minha Formação
 
 ### Bootcamps realizados pela DIO em parceria com:
 
