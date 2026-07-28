@@ -83,7 +83,7 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 </a>
 
 <a href="https://assets.dio.me/Rl8DUPQXFkCIPaZjZew6mXEopjkY81Wx_XX60F3jP7k/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RUVVSUzNaUC5qcGc" target="_blank">
-    <img src="https://img.shields.io/badge/Accenture%20Cloud%20IA-purple?style=for-the-badge" alt="Accenture"/>
+    <img src="https://img.shields.io/badge/Accenture%20Cloud&%20IA-purple?style=for-the-badge" alt="Accenture"/>
 </a>
 
 <a href="https://assets.dio.me/hSLEiS1meXaTqdIZ6SncJlJYuhmA2bzgmrLYpP9Xqv4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9MMkRCSFI4TS5qcGc" target="_blank">
