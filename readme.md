@@ -2,7 +2,7 @@
 
 Sou **Analista de Qualidade de Software (QA)**, com foco em **automação de testes**, **testes de API**, **garantia da qualidade de aplicações**, **automação de fluxos de trabalho com n8n** e **integração de Inteligência Artificial Generativa em processos e soluções automatizadas**.
 
-Possuo experiência de **1 ano** com **testes unitários**, **testes de integração**, **validação de APIs REST**, aplicando boas práticas de qualidade, prevenção de regressões e automação de processos para aumentar a eficiência das entregas.
+Possuo experiência de mais de **1 ano** com **testes unitários**, **testes de integração**, **validação de APIs REST**, aplicando boas práticas de qualidade, prevenção de regressões e automação de processos para aumentar a eficiência das entregas.
 
 Minha evolução profissional também inclui a criação de **workflows inteligentes utilizando n8n**, integrando diferentes serviços, APIs e modelos de **IA Generativa**, permitindo automatizar processos, reduzir tarefas repetitivas e construir soluções mais escaláveis.
 
