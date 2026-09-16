@@ -10,7 +10,7 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 
 ---
 
-##  Experiência Prática
+## Experiência Prática
 
 * Automação de testes
 * Testes unitários e de integração
@@ -25,7 +25,7 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 
 ---
 
-##  Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 * Java
 * Spring Boot
@@ -42,7 +42,7 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 
 ---
 
-##  Minha Formação
+## Minha Formação
 
 ### Bootcamps realizados pela DIO em parceria com:
 
@@ -54,6 +54,7 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 * Almaviva (Back-end com Java & QA)
 * Santander (AI Java Back-end)
 * Riachuelo (Criando Produtos com IA)
+* Itaú (Java com Inteligência Artificial)
 
 ---
 
@@ -67,48 +68,62 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
 * Automação de Processos com n8n
 
 ---
+
 ## Certificações
 
 <div align="left">
 
   <!-- Riachuelo Java (white) -->
+
   <a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java" target="_blank" style="display: inline-block; border-radius: 6px; overflow: hidden; margin: 4px; box-shadow: 0 0 5px #ffffff;">
     <img src="https://img.shields.io/badge/Riachuelo%20Java-white?style=for-the-badge&logoColor=black&labelColor=ffffff" alt="Riachuelo Java"/>
   </a>
 
   <!-- Bradesco Java & QA (red) -->
+
   <a href="https://assets.dio.me/mF6e2Deuwj5UvDCduLjoMPmPvKoIExNGqAIQ68phZSs/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci81TkFDRlBKUi5qcGc" target="_blank" style="display: inline-block; border-radius: 6px; overflow: hidden; margin: 4px; box-shadow: 0 0 5px #ffffff;">
     <img src="https://img.shields.io/badge/Bradesco%20Java%20%26%20QA-red?style=for-the-badge&labelColor=ffffff" alt="Bradesco Java QA"/>
   </a>
 
   <!-- Accenture Cloud & IA (purple) -->
+
   <a href="https://assets.dio.me/Rl8DUPQXFkCIPaZjZew6mXEopjkY81Wx_XX60F3jP7k/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RUVVSUzNaUC5qcGc" target="_blank" style="display: inline-block; border-radius: 6px; overflow: hidden; margin: 4px; box-shadow: 0 0 5px #ffffff;">
     <img src="https://img.shields.io/badge/Accenture%20Cloud%20&%20IA-purple?style=for-the-badge&labelColor=ffffff" alt="Accenture"/>
   </a>
 
   <!-- Microsoft Azure (blue) -->
+
   <a href="https://assets.dio.me/hSLEiS1meXaTqdIZ6SncJlJYuhmA2bzgmrLYpP9Xqv4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9MMkRCSFI4TS5qcGc" target="_blank" style="display: inline-block; border-radius: 6px; overflow: hidden; margin: 4px; box-shadow: 0 0 5px #ffffff;">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge&labelColor=ffffff" alt="Microsoft Azure"/>
   </a>
 
   <!-- Almaviva Java & QA (darkblue) -->
+
   <a href="https://assets.dio.me/acXK01AaDfxwCez2KocseWNsfrQLZXoyxxkR-qwmKuU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9QV0FUTktDRy5qcGc" target="_blank" style="display: inline-block; border-radius: 6px; overflow: hidden; margin: 4px; box-shadow: 0 0 5px #ffffff;">
     <img src="https://img.shields.io/badge/Almaviva%20Java%20%26%20QA-darkblue?style=for-the-badge&labelColor=ffffff" alt="Almaviva"/>
   </a>
 
   <!-- Santander 2026 AI Java (darkred) -->
+
   <a href="https://assets.dio.me/InSFt9h43D2oWHn38NKrJiCf5NVl_zcaLzCd6NL6-Hg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9BWklSSktVSi5qcGc" target="_blank" style="display: inline-block; border-radius: 6px; overflow: hidden; margin: 4px; box-shadow: 0 0 5px #ffffff;">
     <img src="https://img.shields.io/badge/Santander%202026%20AI%20Java-darkred?style=for-the-badge&labelColor=ffffff" alt="Santander"/>
   </a>
 
   <!-- Riachuelo Criando Produtos com IA (darkgreen) -->
+
   <a href="https://assets.dio.me/Yqrpd5fwwon9TjDUTGHlCcQzUVHGpzt-XN76LG18-fU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9JVDU3M0JQRy5qcGc" target="_blank" style="display: inline-block; border-radius: 6px; overflow: hidden; margin: 4px; box-shadow: 0 0 5px #ffffff;">
     <img src="https://img.shields.io/badge/Riachuelo%20Criando%20Produtos%20com%20IA-darkgreen?style=for-the-badge&labelColor=ffffff" alt="Riachuelo IA"/>
   </a>
 
+  <!-- Itaú - Java com Inteligência Artificial (orange) -->
+
+  <a href="https://assets.dio.me/mYbG2cQwC69XY6mQ9qJW9mq_j8q5k1r6Av7j184hmFY/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RWko2RzFJSS5qcGc" target="_blank" style="display: inline-block; border-radius: 6px; overflow: hidden; margin: 4px; box-shadow: 0 0 5px #ffffff;">
+    <img src="https://img.shields.io/badge/Ita%C3%BA%20Java%20com%20Intelig%C3%AAncia%20Artificial-orange?style=for-the-badge&labelColor=ffffff" alt="Itaú - Java com Inteligência Artificial"/>
+  </a>
+
 </div>
 
-##  Diferencial
+## Diferencial
 
 Minha experiência em desenvolvimento backend, aliada à atuação em Qualidade de Software, permite compreender profundamente as regras de negócio, estruturar testes automatizados mais completos e antecipar falhas durante o ciclo de desenvolvimento.
 
@@ -123,4 +138,5 @@ Busco oportunidades para atuar com **Qualidade de Software**, **Automação de T
 ---
 
 ⭐ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.
+
 
