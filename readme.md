@@ -1,3 +1,5 @@
+
+
 # Roberto Cèsar Yanes
 
 Sou **Analista de Qualidade de Software (QA)**, com foco em **automação de testes**, **testes de API**, **garantia da qualidade de aplicações**, **automação de fluxos de trabalho com n8n** e **integração de Inteligência Artificial Generativa em processos e soluções automatizadas**.
@@ -121,6 +123,12 @@ Iniciei minha trajetória como **Desenvolvedor Backend Java**, o que me proporci
     <img src="https://img.shields.io/badge/Ita%C3%BA%20Java%20com%20Intelig%C3%AAncia%20Artificial-orange?style=for-the-badge&labelColor=ffffff" alt="Itaú - Java com Inteligência Artificial"/>
   </a>
 
+  <!-- Nexa Engenharia de Prompt na AWS com Claude (darkorange) -->
+
+  <a href="https://assets.dio.me/7qP8NM79NtyqiivwfLoIWF2SH9ynqJ9TBsESXngz3qk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9BN0dZT0JLVi5qcGc" target="_blank" style="display: inline-block; border-radius: 6px; overflow: hidden; margin: 4px; box-shadow: 0 0 5px #ffffff;">
+    <img src="https://img.shields.io/badge/Nexa%20Engenharia%20de%20Prompt%20na%20AWS%20com%20Claude-darkorange?style=for-the-badge&labelColor=ffffff" alt="Nexa Engenharia de Prompt na AWS com Claude"/>
+  </a>
+
 </div>
 
 ## Diferencial
@@ -138,5 +146,3 @@ Busco oportunidades para atuar com **Qualidade de Software**, **Automação de T
 ---
 
 ⭐ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.
-
-
